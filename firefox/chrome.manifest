@@ -1,0 +1,7 @@
+content   ut_wowpedia                 chrome/content/
+skin      ut_wowpedia   classic/1.0   chrome/skin/
+locale    ut_wowpedia   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://ut_wowpedia/content/ff-overlay.xul
+

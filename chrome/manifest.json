@@ -1,0 +1,17 @@
+{
+  "name": "Ultrasafe Teleporter: Wowpedia",
+  "version": "1.0",
+  "description": "Automatically teleports you from wowwiki.org to the same article on wowpedia.org",
+  "icons": { "16": "icon.png",
+             "48": "icon.png",
+            "128": "icon.png"
+  },
+  "content_scripts": [{
+    "matches": ["http://*.wowwiki.com/*"],
+    "js": ["script.js"],
+    "run_at": "document_start"
+  }],
+  "permissions": [
+    "http://*.wowwiki.com/"
+  ]
+}

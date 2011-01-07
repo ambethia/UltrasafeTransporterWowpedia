@@ -1,0 +1,8 @@
+<!ENTITY ut_wowpedia.label "Your localized menuitem">
+<!ENTITY ut_wowpediaContext.label "Your Menuitem">
+<!ENTITY ut_wowpediaContext.accesskey "Y">
+<!ENTITY ut_wowpediaToolbarButton.label "Your Toolbar Button">
+<!ENTITY ut_wowpediaToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY ut_wowpediaSidebar.label "Your Sidebar">
+<!ENTITY ut_wowpediaToolbar.name  "example">
+<!ENTITY ut_wowpediaToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &ut_wowpediaToolbar.name;">
